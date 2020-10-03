@@ -124,3 +124,13 @@
 |   3   |      팀 프로젝트가 나에게 남긴 것      |          [팀을 효과적으로 버리는 5가지 방법](https://github.com/kimhodol/woowa-writing-2/blob/kimhodol/%5BLevel%203%5D%20%ED%8C%80%EC%9D%84%20%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%B2%84%EB%A6%AC%EB%8A%94%205%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95.md)          |
 
 <br/>
+
+## 📹 Youtube
+
+### 우테코 인터뷰 챌린지
+
+[![Alt text](https://img.youtube.com/vi/8VvfJyYCEKE/0.jpg)](https://www.youtube.com/watch?v=8VvfJyYCEKE)
+
+### 테코톡
+
+- coming soon...
