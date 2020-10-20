@@ -27,7 +27,7 @@
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | 자동차 경주 게임 | [java-racingcar](https://github.com/kimhodol/java-racingcar) |                          [Pull Request](https://github.com/woowacourse/java-racingcar/pull/69)                           |
 |       로또       |     [java-lotto](https://github.com/kimhodol/java-lotto)     |  [Step 1](https://github.com/woowacourse/java-lotto/pull/114) / [2](https://github.com/woowacourse/java-lotto/pull/169)  |
-|      블랙잭      | [java-blackjack](https://github.com/kimhodol/java-blackjack) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/19) / [2](https://github.com/woowacourse/java-lotto/pull/86) |
+|      블랙잭      | [java-blackjack](https://github.com/kimhodol/java-blackjack) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/19) / [2](https://github.com/woowacourse/java-blackjack/pull/86) |
 |       체스       |     [java-chess](https://github.com/kimhodol/java-chess)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/68) / [2](https://github.com/woowacourse/java-chess/pull/109)   |
 
 <br/>
