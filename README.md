@@ -127,10 +127,10 @@
 
 ## 📹 Youtube
 
+### 테코톡
+
+[![Alt text](https://img.youtube.com/vi/4x1QRyMIjGU/0.jpg)](https://www.youtube.com/watch?v=4x1QRyMIjGU)
+
 ### 우테코 인터뷰 챌린지
 
 [![Alt text](https://img.youtube.com/vi/8VvfJyYCEKE/0.jpg)](https://www.youtube.com/watch?v=8VvfJyYCEKE)
-
-### 테코톡
-
-- coming soon...
