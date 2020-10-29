@@ -122,6 +122,7 @@
 |   1   |      우아한테크코스 한 달 생활기       |                                              [우테코 한 달 생활기](https://github.com/kimhodol/woowa-writing-2/blob/kimhodol/%5BLevel%201%5D%20%EC%9A%B0%ED%85%8C%EC%BD%94%20%ED%95%9C%20%EB%8B%AC%20%EC%83%9D%ED%99%9C%EA%B8%B0.md)                                              |
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [프로그래밍을 배운지는 3년째 됩니다만](https://github.com/kimhodol/woowa-writing-2/blob/kimhodol/%5BLevel%202%5D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84%20%EB%B0%B0%EC%9A%B4%EC%A7%80%EB%8A%94%203%EB%85%84%EC%A7%B8%20%EB%90%A9%EB%8B%88%EB%8B%A4%EB%A7%8C.md) |
 |   3   |      팀 프로젝트가 나에게 남긴 것      |          [팀을 효과적으로 버리는 5가지 방법](https://github.com/kimhodol/woowa-writing-2/blob/kimhodol/%5BLevel%203%5D%20%ED%8C%80%EC%9D%84%20%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%B2%84%EB%A6%AC%EB%8A%94%205%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95.md)          |
+|   4   | 내가 꿈꾸는 프로그래머로서의 삶 | [예술가가 되고 싶은 프로그래머](https://github.com/kimhodol/woowa-writing-2/blob/kimhodol/%5BLevel%204%5D%20%EC%98%88%EC%88%A0%EA%B0%80%EA%B0%80%20%EB%90%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8.md)                 |
 
 <br/>
 
