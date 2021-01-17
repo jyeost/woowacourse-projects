@@ -109,7 +109,10 @@
 
 ### 진행 미션
 
-- comming soon...
+|     Project      |                          Repository                          |                                                       Code Review                                                        |
+| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+| 웹 어플리케이션 서버 **(미완성)** | [jwp-was](https://github.com/woowacourse/jwp-was/tree/kimhodol) |                          [Step 1](https://github.com/woowacourse/jwp-was/pull/192)                           |
+|       리팩토링 **(미완성)**       |     [jwp-refactoring](https://github.com/woowacourse/jwp-refactoring/tree/kimhodol)     |  [Step 1](https://github.com/woowacourse/jwp-refactoring/pull/78)  |
 
 <br/>
 
