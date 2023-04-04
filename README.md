@@ -1,10 +1,8 @@
-# 👨🏻‍💻 woowacourse-projects
+# woowacourse-projects
 
-<p align="center">
-    <img src="./wooteco-cover.jpg" alt="우아한 테크코스 포스터" width="40%" />
-</p>
 
-> [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 Repository
+> [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 Repository   
+> 5기 웹 백엔드
 
 <br/>
 
@@ -12,23 +10,23 @@
 
 ### 기간
 
-- 2020.02.04 ~ 2020.04.10
+- 2023.02.07 ~ 2023.03.31
 
 ### 학습 목표
 
-- 자바 프로그래밍 언어에 대한 기본 문법을 익혀 프로그래밍하는 경험을 한다.
+- 자바 프로그래밍 언어에 대한 핵심 개념을 익혀 프로그래밍하는 경험을 한다.
 - 읽기 좋은 코드를 구현하는 것이 왜 중요한지와 코드를 개선해 읽기 좋은 코드로 변경해 보는 경험을 한다.
 - 자신이 구현한 코드에 대해 단위 테스트와 리팩토링하는 경험을 한다.
-- 웹 프론트엔드에서 웹 백엔드까지 프로그래밍해 웹 애플리케이션을 개발하는 경험을 한다.
+- 데이터베이스를 활용한 콘솔 애플리케이션을 개발하는 경험을 한다.
 
 ### 진행 미션
 
 |     Project      |                          Repository                          |                                                       Code Review                                                        |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| 자동차 경주 게임 | [java-racingcar](https://github.com/woowacourse/java-racingcar/tree/woonjangahn) |                          [Pull Request](https://github.com/woowacourse/java-racingcar/pull/69)                           |
-|       로또       |     [java-lotto](https://github.com/woowacourse/java-lotto/tree/woonjangahn)     |  [Step 1](https://github.com/woowacourse/java-lotto/pull/114) / [2](https://github.com/woowacourse/java-lotto/pull/169)  |
-|      블랙잭      | [java-blackjack](https://github.com/woowacourse/java-blackjack/tree/woonjangahn) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/19) / [2](https://github.com/woowacourse/java-blackjack/pull/86) |
-|       체스       |     [java-chess](https://github.com/woowacourse/java-chess/tree/woonjangahn)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/68) / [2](https://github.com/woowacourse/java-chess/pull/109)   |
+| 자동차 경주 게임 | [java-racingcar](https://github.com/yenawee/java-racingcar/tree/step2) |                          [Step 1](https://github.com/woowacourse/java-racingcar/pull/463) / [2](https://github.com/woowacourse/java-racingcar/pull/594)             |
+|       사다리 타기       |     [java-ladder](https://github.com/yenawee/java-ladder/tree/step2)     |  [Step 1](https://github.com/woowacourse/java-ladder/pull/105) / [2](https://github.com/woowacourse/java-ladder/pull/224)  |
+|      블랙잭      | [java-blackjack](https://github.com/yenawee/java-blackjack/tree/step2) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/402) / [2](https://github.com/woowacourse/java-blackjack/pull/566) |
+|       체스       |     [java-chess](https://github.com/yenawee/java-chess/tree/step3)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/486) / [2](https://github.com/woowacourse/java-chess/pull/579)   |
 
 <br/>
 
@@ -122,7 +120,7 @@
 
 | Level |                 Topic                  |                                                                                                                                       Post                                                                                                                                        |
 | :---: | :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       |                                              [우테코 한 달 생활기](https://github.com/woowacourse/woowa-writing-2/blob/kimhodol/%5BLevel%201%5D%20%EC%9A%B0%ED%85%8C%EC%BD%94%20%ED%95%9C%20%EB%8B%AC%20%EC%83%9D%ED%99%9C%EA%B8%B0.md)                                              |
+|   1   |      우아한테크코스 한 달 생활기       |                                              [우아한테크코스 한 달 생활기](https://github.com/yenawee/woowa-writing-5/blob/level1/우아한테크코스%20한%20달%20생활기.md)                                              |
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [프로그래밍을 배운지는 3년째 됩니다만](https://github.com/woowacourse/woowa-writing-2/blob/kimhodol/%5BLevel%202%5D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84%20%EB%B0%B0%EC%9A%B4%EC%A7%80%EB%8A%94%203%EB%85%84%EC%A7%B8%20%EB%90%A9%EB%8B%88%EB%8B%A4%EB%A7%8C.md) |
 |   3   |      팀 프로젝트가 나에게 남긴 것      |          [팀을 효과적으로 버리는 5가지 방법](https://github.com/woowacourse/woowa-writing-2/blob/kimhodol/%5BLevel%203%5D%20%ED%8C%80%EC%9D%84%20%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%B2%84%EB%A6%AC%EB%8A%94%205%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95.md)          |
 |   4   | 내가 꿈꾸는 프로그래머로서의 삶 | [예술가가 되고 싶은 프로그래머](https://github.com/woowacourse/woowa-writing-2/blob/kimhodol/%5BLevel%204%5D%20%EC%98%88%EC%88%A0%EA%B0%80%EA%B0%80%20%EB%90%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8.md)                 |
