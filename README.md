@@ -60,7 +60,7 @@
 
 ### 기간
 
-- 2020.07.07 ~ 2020.08.28
+- 2023.06.29 ~ 2023.08.18
 
 ### 학습 목표
 
@@ -69,26 +69,23 @@
 
 ### 진행 미션
 
-#### 👨‍💻 [Slide.md](https://slidemd.com) : Beautiful, Minimal Slides with Markdown
-
-**서비스**
-
-- [Slide.md](https://slidemd.com)
+### Stampcrush : 흩어져있는 종이쿠폰 한번에 관리하자✨
+- 개인 카페 쿠폰 적립 및 관리 플랫폼
+- [소개글](https://github.com/woowacourse-teams/2023-stamp-crush/wiki)
 
 **Github Repository**
 
-- [2020-zeze](https://github.com/woowacourse-teams/2020-zeze)
-- [Issues](https://github.com/woowacourse-teams/2020-zeze/issues)
-- [Pull Requests](https://github.com/woowacourse-teams/2020-zeze/pulls)
+- [2023-stamp-crush](https://github.com/woowacourse-teams/2023-stamp-crush)
+- [Issues](https://github.com/woowacourse-teams/2023-stamp-crush/issues)
+- [Pull Requests](https://github.com/woowacourse-teams/2023-stamp-crush/pulls)
 
 **Demo**
 
-- [프로젝트 기획](https://github.com/woowacourse-teams/2020-zeze/wiki/Project-Plan) / [팀 문화](https://github.com/woowacourse-teams/2020-zeze/wiki/Team-Culture)
-- [1차 데모 영상: 팀 문화 및 이슈 발표](https://www.youtube.com/watch?v=XcKIlsWAd10)
-- [2차 데모 영상: 프로토타입 및 빌드/배포 자동화 발표](https://www.youtube.com/watch?v=VLnIZ6oGKbs)
-- [4차 데모 영상: 8주간의 팀 프로젝트 회고](https://www.youtube.com/watch?v=KVNRJ9ONM1Y)
-- [홍보 영상](https://www.youtube.com/watch?v=ZcFQoPsrsRk)
-- [프로그래밍 커뮤니티 <생활코딩> 홍보 게시물 (Facebook)](https://www.facebook.com/groups/codingeverybody/?multi_permalinks=4555458237828010)
+- [1차 데모 영상](), [발표 자료](https://drive.google.com/file/d/1CiA2onVQB6UGZGkdUjhuBt0kJfG7vXv-/view?usp=sharing)
+- [2차 데모 영상](), [발표 자료](https://drive.google.com/file/d/13ADEQTC8R2bNXTVxGNBHE9V1pzQUZGv0/view?usp=sharing)
+- [3차 데모 영상](), [발표 자료](https://drive.google.com/file/d/1HLePKs6PmrQr2ewierUPME-tNZrqnUsx/view?usp=sharing)
+- [4차 데모 영상](), [발표 자료](https://drive.google.com/file/d/1vpKxdcR5joLus5TkWpJsRZHy-_6Bv1qE/view?usp=sharing)
+
 
 <br/>
 
@@ -123,7 +120,6 @@
 | :---: | :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   1   |      우아한테크코스 한 달 생활기       |                                              [우아한테크코스 한 달 생활기](https://github.com/yenawee/woowa-writing-5/blob/yenawee/LV%20-%201%20우아한테크코스%20한%20달%20생활기.md)                                              |
 |   2   | 자유 글쓰기 | [개발의 즐거움 다시 찾기](https://github.com/yenawee/woowa-writing-5/blob/yenawee/LV2-%20개발의%20즐거움%20다시%20찾기.md) |
-|   3   |      팀 프로젝트가 나에게 남긴 것      |          [팀을 효과적으로 버리는 5가지 방법](https://github.com/woowacourse/woowa-writing-2/blob/kimhodol/%5BLevel%203%5D%20%ED%8C%80%EC%9D%84%20%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%B2%84%EB%A6%AC%EB%8A%94%205%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95.md)          |
 |   4   | 내가 꿈꾸는 프로그래머로서의 삶 | [예술가가 되고 싶은 프로그래머](https://github.com/woowacourse/woowa-writing-2/blob/kimhodol/%5BLevel%204%5D%20%EC%98%88%EC%88%A0%EA%B0%80%EA%B0%80%20%EB%90%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8.md)                 |
 
 <br/>
