@@ -81,10 +81,11 @@
 
 **Demo**
 
-- [1차 데모 영상](), [발표 자료](https://drive.google.com/file/d/1CiA2onVQB6UGZGkdUjhuBt0kJfG7vXv-/view?usp=sharing)
-- [2차 데모 영상](), [발표 자료](https://drive.google.com/file/d/13ADEQTC8R2bNXTVxGNBHE9V1pzQUZGv0/view?usp=sharing)
-- [3차 데모 영상](), [발표 자료](https://drive.google.com/file/d/1HLePKs6PmrQr2ewierUPME-tNZrqnUsx/view?usp=sharing)
-- [4차 데모 영상](), [발표 자료](https://drive.google.com/file/d/1vpKxdcR5joLus5TkWpJsRZHy-_6Bv1qE/view?usp=sharing)
+- [1차 데모 발표 자료](https://drive.google.com/file/d/1CiA2onVQB6UGZGkdUjhuBt0kJfG7vXv-/view?usp=sharing)
+- [2차 데모 발표 자료](https://drive.google.com/file/d/13ADEQTC8R2bNXTVxGNBHE9V1pzQUZGv0/view?usp=sharing)
+- [3차 데모 발표 자료](https://drive.google.com/file/d/1HLePKs6PmrQr2ewierUPME-tNZrqnUsx/view?usp=sharing)
+- [4차 데모 발표 자료](https://drive.google.com/file/d/1vpKxdcR5joLus5TkWpJsRZHy-_6Bv1qE/view?usp=sharing)
+- [5차 데모 발표 자료](https://drive.google.com/file/d/12HtsHQdsROSb6gmnqSnwWWAk43I17u5M/view?usp=sharing)
 
 
 <br/>
@@ -93,22 +94,23 @@
 
 ### 기간
 
-- 2020.09.08 ~ 2020.11.27
+- 2023.08.29 ~ 2023.10.27
 
 ### 학습 목표
 
+- 실사용자의 피드백을 받아 서비스의 완성도를 높이고 유지보수를 하는 경험을 한다.
 - 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
 - JDBC 라이브러리, MVC, DI 프레임워크 구현을 통해 Spring 프레임워크의 동작 원리를 이해한다.
 - 레거시 프로젝트를 리팩토링하는 경험을 한다.
-- 객체지향 설계, 인증 및 보안, WebSocket 경험을 한다.
-- 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험을 한다.
 
 ### 진행 미션
 
 |     Project      |                          Repository                          |                                                       Code Review                                                        |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| 웹 어플리케이션 서버 **(미완성)** | [jwp-was](https://github.com/woowacourse/jwp-was/tree/kimhodol) |                          [Step 1](https://github.com/woowacourse/jwp-was/pull/192)                           |
-|       리팩토링 **(미완성)**       |     [jwp-refactoring](https://github.com/woowacourse/jwp-refactoring/tree/kimhodol)     |  [Step 1](https://github.com/woowacourse/jwp-refactoring/pull/78)  |
+| Tomcat 구현하기 | [jwp-dashboard-http](https://github.com/yenawee/jwp-dashboard-http/tree/step2) |                          [Step 1, 2](https://github.com/woowacourse/jwp-dashboard-http/pull/355)  / [Step 3, 4](https://github.com/woowacourse/jwp-dashboard-http/pull/458)                     |
+|       @MVC 구현하기       |     [jwp-dashboard-mvc](https://github.com/yenawee/jwp-dashboard-mvc/tree/step3)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-mvc/pull/413) /  [Step 2](https://github.com/woowacourse/jwp-dashboard-mvc/pull/506) / [Step 3](https://github.com/woowacourse/jwp-dashboard-mvc/pull/615)|
+|       JDBC 라이브러리 구현하기       |     [jwp-dashboard-jdbc](https://github.com/yenawee/jwp-dashboard-jdbc/tree/step3%2C4)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/317) / [Step 2](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/424) / [Step 3, 4](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/513)|
+|       레거시 코드 리팩터링       |     [jwp-refactoring](https://github.com/yenawee/jwp-refactoring)     |  [Step 1](https://github.com/woowacourse/jwp-refactoring/pull/546)  |
 
 <br/>
 
@@ -120,7 +122,7 @@
 | :---: | :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   1   |      우아한테크코스 한 달 생활기       |                                              [우아한테크코스 한 달 생활기](https://github.com/yenawee/woowa-writing-5/blob/yenawee/LV%20-%201%20우아한테크코스%20한%20달%20생활기.md)                                              |
 |   2   | 자유 글쓰기 | [개발의 즐거움 다시 찾기](https://github.com/yenawee/woowa-writing-5/blob/yenawee/LV2-%20개발의%20즐거움%20다시%20찾기.md) |
-|   4   | 내가 꿈꾸는 프로그래머로서의 삶 | [예술가가 되고 싶은 프로그래머](https://github.com/woowacourse/woowa-writing-2/blob/kimhodol/%5BLevel%204%5D%20%EC%98%88%EC%88%A0%EA%B0%80%EA%B0%80%20%EB%90%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8.md)                 |
+|   4   | 내가 꿈꾸는 프로그래머로서의 삶 |              |
 
 <br/>
 
@@ -128,7 +130,6 @@
 
 ### 테코톡
 
-[![Alt text](https://img.youtube.com/vi/4x1QRyMIjGU/0.jpg)](https://www.youtube.com/watch?v=4x1QRyMIjGU)
 
 ## 📚 프로그래밍 도서
 [Code](https://1yearlog.tistory.com/3)   
