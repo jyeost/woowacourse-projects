@@ -110,7 +110,7 @@
 | Tomcat 구현하기 | [jwp-dashboard-http](https://github.com/yenawee/jwp-dashboard-http/tree/step2) |                          [Step 1, 2](https://github.com/woowacourse/jwp-dashboard-http/pull/355)  / [Step 3, 4](https://github.com/woowacourse/jwp-dashboard-http/pull/458)                     |
 |       @MVC 구현하기       |     [jwp-dashboard-mvc](https://github.com/yenawee/jwp-dashboard-mvc/tree/step3)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-mvc/pull/413) /  [Step 2](https://github.com/woowacourse/jwp-dashboard-mvc/pull/506) / [Step 3](https://github.com/woowacourse/jwp-dashboard-mvc/pull/615)|
 |       JDBC 라이브러리 구현하기       |     [jwp-dashboard-jdbc](https://github.com/yenawee/jwp-dashboard-jdbc/tree/step3%2C4)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/317) / [Step 2](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/424) / [Step 3, 4](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/513)|
-|       레거시 코드 리팩터링       |     [jwp-refactoring](https://github.com/yenawee/jwp-refactoring)     |  [Step 1](https://github.com/woowacourse/jwp-refactoring/pull/546) / [Step 2](https://github.com/woowacourse/jwp-refactoring/pull/633) / [Step 3](https://github.com/woowacourse/jwp-refactoring/pull/725) |
+|       레거시 코드 리팩터링       |     [jwp-refactoring](https://github.com/yenawee/jwp-refactoring)     |  [Step 1](https://github.com/woowacourse/jwp-refactoring/pull/546) / [Step 2](https://github.com/woowacourse/jwp-refactoring/pull/633) / [Step 3](https://github.com/woowacourse/jwp-refactoring/pull/725) / [Step 4](https://github.com/woowacourse/jwp-refactoring/pull/778)|
 
 <br/>
 
