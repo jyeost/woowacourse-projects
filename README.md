@@ -130,6 +130,8 @@
 
 ### 테코톡
 
+[![Alt text](https://img.youtube.com/vi/5UiPIqmK_G4/0.jpg)](https://youtu.be/5UiPIqmK_G4?si=Eg_FTqEuH-XJTlVk)
+
 발표 자료 <br/>
 [컨테이너란](https://drive.google.com/file/d/1YYvYwC8gDL37UNT7jKdXjU8idNYF1WkG/view?usp=sharing)
 
