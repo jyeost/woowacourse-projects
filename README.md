@@ -23,10 +23,10 @@
 
 |     Project      |                          Repository                          |                                                       Code Review                                                        |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| 자동차 경주 게임 | [java-racingcar](https://github.com/yenawee/java-racingcar/tree/step2) |                          [Step 1](https://github.com/woowacourse/java-racingcar/pull/463) / [2](https://github.com/woowacourse/java-racingcar/pull/594)             |
-|       사다리 타기       |     [java-ladder](https://github.com/yenawee/java-ladder/tree/step2)     |  [Step 1](https://github.com/woowacourse/java-ladder/pull/105) / [2](https://github.com/woowacourse/java-ladder/pull/224)  |
-|      블랙잭      | [java-blackjack](https://github.com/yenawee/java-blackjack/tree/step2) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/402) / [2](https://github.com/woowacourse/java-blackjack/pull/566) |
-|       체스       |     [java-chess](https://github.com/yenawee/java-chess/tree/step3)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/486) / [2](https://github.com/woowacourse/java-chess/pull/579)   |
+| 자동차 경주 게임 | [java-racingcar](https://github.com/jyeost/java-racingcar/tree/step2) |                          [Step 1](https://github.com/woowacourse/java-racingcar/pull/490) / [2](https://github.com/woowacourse/java-racingcar/pull/575)             |
+|       사다리 타기       |     [java-ladder](https://github.com/jyeost/java-ladder/tree/step2)     |  [Step 1](https://github.com/woowacourse/java-ladder/pull/63) / [2](https://github.com/woowacourse/java-ladder/pull/172)  |
+|      블랙잭      | [java-blackjack](https://github.com/jyeost/java-blackjack/tree/step2) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/398) / [2](https://github.com/woowacourse/java-blackjack/pull/588) |
+|       체스       |     [java-chess](https://github.com/jyeost/java-chess/tree/step2)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/458) / [2](https://github.com/woowacourse/java-chess/pull/623)   |
 
 
 <br/>
@@ -48,10 +48,10 @@
 
 |       Project        |                                        Repository                                         |                                                                                                            Code Review                                                                                                             |
 | :------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         웹 자동차 경주         |                    [jwp-racingcar](https://github.com/yenawee/jwp-racingcar/tree/step2)                     | [Step 1](https://github.com/woowacourse/jwp-racingcar/pull/57) / [2](https://github.com/woowacourse/jwp-racingcar/pull/145) |
-|   쇼핑 장바구니   |            [jwp-shopping-cart](https://github.com/yenawee/jwp-shopping-cart/tree/step2)             |   [Step 1](https://github.com/woowacourse/jwp-shopping-cart/pull/189) / [2](https://github.com/woowacourse/jwp-shopping-cart/pull/316)                                                                                                                                                     |
-|   지하철   |             [jwp-subway-path](https://github.com/yenawee/jwp-subway-path/tree/step2)              | [Step 1](https://github.com/woowacourse/jwp-subway-path/pull/25) /                                                                              [2](https://github.com/woowacourse/jwp-subway-path/pull/148)                                                                               |
-| 쇼핑 주문(협업) |         [jwp-shopping-order](https://github.com/yenawee/jwp-shopping-order)          |                                                                            [Pull Request](https://github.com/woowacourse/jwp-shopping-order/pull/50)                                                                             |
+|         웹 자동차 경주         |                    [jwp-racingcar](https://github.com/jyeost/jwp-racingcar/tree/step2)                     | [Step 1](https://github.com/woowacourse/jwp-racingcar/pull/17) / [2](https://github.com/woowacourse/jwp-racingcar/pull/199) |
+|   쇼핑 장바구니   |            [jwp-shopping-cart](https://github.com/jyeost/jwp-shopping-cart/tree/step2)             |   [Step 1](https://github.com/woowacourse/jwp-shopping-cart/pull/216) / [2](https://github.com/woowacourse/jwp-shopping-cart/pull/327)                                                                                                                                                     |
+|   지하철   |             [jwp-subway-path](https://github.com/jyeost/jwp-subway-path/tree/step2)              | [Step 1](https://github.com/woowacourse/jwp-subway-path/pull/20) /                                                                              [2](https://github.com/woowacourse/jwp-subway-path/pull/189)                                                                               |
+| 쇼핑 주문(협업) |         [jwp-shopping-order](https://github.com/jyeost/jwp-shopping-order/tree/step1)          |                                                                            [Pull Request](https://github.com/woowacourse/jwp-shopping-order/pull/97)                                                                             |
 
 
 <br/>
@@ -69,23 +69,22 @@
 
 ### 진행 미션
 
-### Stampcrush : 흩어져있는 종이쿠폰 한번에 관리하자✨
-- 개인 카페 쿠폰 적립 및 관리 플랫폼
-- [소개글](https://github.com/woowacourse-teams/2023-stamp-crush/wiki)
+### 이돈이면 🐽
+- 사용자들에게 소비 절제와 합리적인 소비를 도모하며 재미와 유용한 정보를 제공하는 서비스
+- [소개글](https://github.com/woowacourse-teams/2023-edonymyeon/wiki)
 
 **Github Repository**
 
-- [2023-stamp-crush](https://github.com/woowacourse-teams/2023-stamp-crush)
-- [Issues](https://github.com/woowacourse-teams/2023-stamp-crush/issues)
-- [Pull Requests](https://github.com/woowacourse-teams/2023-stamp-crush/pulls)
+- [2023-edonymyeon](https://github.com/woowacourse-teams/2023-edonymyeon)
+- [Issues](https://github.com/woowacourse-teams/2023-edonymyeon/issues)
+- [Pull Requests](https://github.com/woowacourse-teams/2023-edonymyeon/pulls)
 
 **Demo**
 
-- [1차 데모 발표 자료](https://drive.google.com/file/d/1CiA2onVQB6UGZGkdUjhuBt0kJfG7vXv-/view?usp=sharing)
-- [2차 데모 발표 자료](https://drive.google.com/file/d/13ADEQTC8R2bNXTVxGNBHE9V1pzQUZGv0/view?usp=sharing)
-- [3차 데모 발표 자료](https://drive.google.com/file/d/1HLePKs6PmrQr2ewierUPME-tNZrqnUsx/view?usp=sharing)
-- [4차 데모 발표 자료](https://drive.google.com/file/d/1vpKxdcR5joLus5TkWpJsRZHy-_6Bv1qE/view?usp=sharing)
-- [5차 데모 발표 자료](https://drive.google.com/file/d/12HtsHQdsROSb6gmnqSnwWWAk43I17u5M/view?usp=sharing)
+- [1차 데모 발표 자료](https://docs.google.com/presentation/d/1nHV_EFfK8FVCQ0ae2kvPoDyckMKmdMl6/edit#slide=id.p1)
+- [2차 데모 발표 자료](https://docs.google.com/presentation/d/1TB8YPKbvQ1Pi52qJVA01HhK7qqokYvMm/edit?usp=drive_web&ouid=117528433649501790217&rtpof=true)
+- [3차 데모 발표 자료](https://docs.google.com/presentation/d/1bxwY3u0YNjHu3jnmuZv4BnpS0r5GOSaK/edit)
+- [4차 데모 발표 자료](https://docs.google.com/presentation/d/1EPV1nwAktiNm6nEtRuJh5jCErxhLO1DS/edit#slide=id.p1)
 
 
 <br/>
@@ -107,10 +106,10 @@
 
 |     Project      |                          Repository                          |                                                       Code Review                                                        |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| Tomcat 구현하기 | [jwp-dashboard-http](https://github.com/yenawee/jwp-dashboard-http/tree/step2) |                          [Step 1, 2](https://github.com/woowacourse/jwp-dashboard-http/pull/355)  / [Step 3, 4](https://github.com/woowacourse/jwp-dashboard-http/pull/458)                     |
-|       @MVC 구현하기       |     [jwp-dashboard-mvc](https://github.com/yenawee/jwp-dashboard-mvc/tree/step3)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-mvc/pull/413) /  [Step 2](https://github.com/woowacourse/jwp-dashboard-mvc/pull/506) / [Step 3](https://github.com/woowacourse/jwp-dashboard-mvc/pull/615)|
-|       JDBC 라이브러리 구현하기       |     [jwp-dashboard-jdbc](https://github.com/yenawee/jwp-dashboard-jdbc/tree/step3%2C4)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/317) / [Step 2](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/424) / [Step 3, 4](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/513)|
-|       레거시 코드 리팩터링       |     [jwp-refactoring](https://github.com/yenawee/jwp-refactoring)     |  [Step 1](https://github.com/woowacourse/jwp-refactoring/pull/546) / [Step 2](https://github.com/woowacourse/jwp-refactoring/pull/633) / [Step 3](https://github.com/woowacourse/jwp-refactoring/pull/725) / [Step 4](https://github.com/woowacourse/jwp-refactoring/pull/778)|
+| Tomcat 구현하기 | [jwp-dashboard-http](https://github.com/jyeost/jwp-dashboard-http/tree/step2) |                          [Step 1, 2](https://github.com/woowacourse/jwp-dashboard-http/pull/363)  / [Step 3, 4](https://github.com/woowacourse/jwp-dashboard-http/pull/480)                     |
+|       @MVC 구현하기       |     [jwp-dashboard-mvc](https://github.com/jyeost/jwp-dashboard-mvc/tree/step2)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-mvc/pull/365) /  [Step 2, 3](https://github.com/woowacourse/jwp-dashboard-mvc/pull/578) |
+|       JDBC 라이브러리 구현하기       |     [jwp-dashboard-jdbc](https://github.com/jyeost/jwp-dashboard-jdbc/tree/step3)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/360) / [Step 2](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/452) / [Step 3, 4](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/606)|
+|       레거시 코드 리팩터링       |     [jwp-refactoring](https://github.com/jyeost/jwp-refactoring/tree/step4)     |  [Step 1, 2](https://github.com/woowacourse/jwp-refactoring/pull/638) / [Step 3](https://github.com/woowacourse/jwp-refactoring/pull/774) / [Step 4](https://github.com/woowacourse/jwp-refactoring/pull/803)|
 
 <br/>
 
@@ -120,9 +119,9 @@
 
 | Level |                 Topic                  |                                                                                                                                       Post                                                                                                                                        |
 | :---: | :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       |                                              [우아한테크코스 한 달 생활기](https://github.com/yenawee/woowa-writing-5/blob/yenawee/LV%20-%201%20우아한테크코스%20한%20달%20생활기.md)                                              |
-|   2   | 자유 글쓰기 | [개발의 즐거움 다시 찾기](https://github.com/yenawee/woowa-writing-5/blob/yenawee/LV2-%20개발의%20즐거움%20다시%20찾기.md) |
-|   4   | 내가 꿈꾸는 프로그래머로서의 삶 |     [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/yenawee/woowa-writing-5/blob/level3/LV3%20-%20내가%20꿈꾸는%20프로그래머로서의%20삶.md)         |
+|   1   |      우아한테크코스 한 달 생활기       |                                              [우아한테크코스 한 달 생활기](https://github.com/jyeost/woowa-writing-5/blob/jyeost/README.md)                                              |
+|   2   | 자유 글쓰기 | [개발의 즐거움 다시 찾기](https://github.com/jyeost/woowa-writing-5/blob/jyeost/writing-2.md) |
+|   4   | 내가 꿈꾸는 프로그래머로서의 삶 |     [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/jyeost/woowa-writing-5/blob/jyeost/writing-4.md)         |
 
 <br/>
 
@@ -130,14 +129,9 @@
 
 ### 테코톡
 
-[![Alt text](https://img.youtube.com/vi/5UiPIqmK_G4/0.jpg)](https://youtu.be/5UiPIqmK_G4?si=Eg_FTqEuH-XJTlVk)
+[![Alt text](https://img.youtube.com/vi/mrrEPbGF6hQ/0.jpg)](https://www.youtube.com/watch?v=mrrEPbGF6hQ)
+
 
 발표 자료 <br/>
-[컨테이너란](https://drive.google.com/file/d/1YYvYwC8gDL37UNT7jKdXjU8idNYF1WkG/view?usp=sharing)
+[예외처리](https://drive.google.com/file/d/1YYvYwC8gDL37UNT7jKdXjU8idNYF1WkG/view?usp=sharing)
 
-
-## 📚 프로그래밍 도서
-[Code](https://1yearlog.tistory.com/3)   
-[객체지향의 사실과 오해](https://1yearlog.tistory.com/4)   
-[좋은 코드 나쁜 코드](https://1yearlog.tistory.com/15)   
-[코딩을 지탱하는 기술](https://1yearlog.tistory.com/16)   
